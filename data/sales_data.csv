@@ -1,1 +1,13 @@
-
+Date,Product,Category,Quantity,Price,Customer,City
+2026-01-05,Laptop,Electronics,2,70000,Customer1,Coimbatore
+2026-01-08,Phone,Electronics,3,30000,Customer2,Tiruppur
+2026-01-12,Headphones,Accessories,5,2000,Customer3,Chennai
+2026-01-18,Laptop,Electronics,1,70000,Customer4,Coimbatore
+2026-02-03,Phone,Electronics,4,30000,Customer5,Chennai
+2026-02-10,Keyboard,Accessories,6,1500,Customer6,Tiruppur
+2026-02-15,Monitor,Electronics,2,15000,Customer7,Coimbatore
+2026-02-22,Mouse,Accessories,8,800,Customer8,Chennai
+2026-03-04,Laptop,Electronics,3,70000,Customer9,Tiruppur
+2026-03-11,Phone,Electronics,5,30000,Customer10,Coimbatore
+2026-03-19,Headphones,Accessories,7,2000,Customer11,Chennai
+2026-03-25,Monitor,Electronics,3,15000,Customer12,Tiruppur
